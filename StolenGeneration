@@ -1,0 +1,68 @@
+<!DOCTYPE html>	
+	
+<html>
+	<head>
+
+		<title>The Stolen Generation</title>
+		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700' rel='stylesheet' type='text/css'>
+	</head>
+	
+	<body style="background-color: white; font-family: Source Sans Pro;">
+		<style>
+		header {
+			width: 100vw;
+			height: 240px;
+			margin-top: -9px;
+			margin-left: -8px;
+			background-color: black;
+			opacity: 0.8;
+			position: absolute;
+			color: SlateGray;
+			text-align: center;
+			font-weight: 200;
+		}
+		
+		#body {
+			padding-top: 260px;
+			padding-left: 15%;
+			padding-right: 15%;
+		}
+		
+		#contentFrame {
+			border-radius: 5px;
+			background-color: LightGray;
+			padding-top: 15px;
+			padding-right: 30px;
+			padding-left: 30px;
+		}
+		</style>
+		<header>
+			<p style="font-size: 48px;">The Stolen Generation</p>
+			<p style="font-size: 24px;">By Isaac</p>
+		</header>
+		
+		<div id="body">
+			<div id="contentFrame">
+				<p>
+The stolen generation were children of the aborigine people who were taken away from their families and loved ones at early ages. This started in 1880's and was finally put to a stop in the 1970's. Their reasonings for this is rather racist, the policy stated that the Indigenous parents were unable to look after their children properly and so the white authorities removed all half aboriginal children and put then into care with a white family.
+				<br>
+				<br>
+				There are many conspiracy's involving why the white Australian governing body stole the aboriginal  children, they thought by removing the Aborigine children they could stop the aboriginal culture altogether like their language, tradition, knowledge, dances and spirituality could only live if passed on to their children. In breaking this circle of life white people hoped to end Aboriginal culture within a short time and get rid of "the Aboriginal problem".
+				<br>
+				<br>
+There were many children that where taken from their parents and families but the exact number of children that were taken  is pretty difficult to come by because next to no records of the stolen children were kept, some were deliberately destroy or lost. Some of the parties involved in the stolen generation tried to cover up the actual number of aboriginal people taken hence the numbers being only in the 6000's in the time zone of 1883 and 1969. This number was in NSW alone. in 1994 a survey was conducted by the Australian Bureau of Statistics stated that one in every ten aboriginal people aged over 25 had been removed from their families at a time during their child hood. which puts the number of 6200 children up to the tens of thousands.</p>
+
+
+<iframe width="420" height="315"  style="margin-right: 10px; float:left;" src="https://www.youtube.com/embed/KzpsBqwCQqE" frameborder="0" allowfullscreen></iframe>
+
+<p>
+<br>
+We know that during the time period of 1883 and 1969 that aboriginal children where taken form their own families but these people are still being mentally tortured from what they have experienced in their childhood. The impact of the forced removal of aborigine children has been found to be quit severe. There was a study conducted in Melbourne found that the resocialisation programme that was meant to help aboriginal people get back into a normal life didn't intact work as no tangible improvement was found. The study also found that the children that have been removed were less likely to complete the higher levels of school, three times as likely to have a police record and twice as likely to use illegal drugs. Their only seems to be one notable advantage  from the "removed" and that is that these Aboriginal people have been found to have a slightly high income due to the easily accessible welfare payments due what what happened in the past.
+<br>
+<br>
+The Central Board for the Protection of Aborigines or the (CBPA) was advocated such power to regulate the lives of indigenous Australian and they were also responsible for all half cast children which lead to a key role in the stolen generation. They had ultimate power and control of the whole of indigenous people. Under child welfare laws the board was given direct power to remove aboriginal and half cast children and also to control where the natives lived. During the aborigines lives at Kinchela or cootamundra they were taught farm labouring and domestic work leaving many of them ending up as servants.
+</p>
+			</div>
+		</div>
+	</body>
+</html>
